@@ -1,0 +1,42 @@
+# Python packages for testing and automation tools
+# Used in Week 4 (Days 22-30)
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Data validation
+great-expectations>=0.18.0
+
+# Code quality
+black>=23.7.0
+ruff>=0.0.285
+
+# Profiling and debugging
+ipdb>=0.13.13
+memory-profiler>=0.61.0
+line-profiler>=4.1.0
+
+# Configuration management
+python-dotenv>=1.0.0
+pydantic>=2.3.0
+pydantic-settings>=2.0.3
+
+# API testing
+requests>=2.31.0
+httpie>=3.2.2
+
+# AWS
+boto3>=1.28.0
+awscli>=1.29.0
+
+# Package management (examples)
+poetry>=1.6.0
+
+# Notebook automation
+papermill>=2.4.0
+nbconvert>=7.8.0
+
+# Data processing (for examples)
+pandas>=2.1.0
+duckdb>=0.8.1
